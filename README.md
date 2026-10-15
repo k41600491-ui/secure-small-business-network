@@ -89,10 +89,10 @@ All unused switch ports are assigned to black hole VLAN 999 and administratively
 
 | File | Description |
 |---|---|
-| `SecureSmallBusinessNetwork.pkt` | Packet Tracer project file |
-| `Router0-config.txt` | Router running configuration |
-| `Switch0-config.txt` | Switch0 running configuration |
-| `Switch1-config.txt` | Switch1 running configuration |
+| [Packet tracer Project 1.pkt](Packet%20tracer%20Project%201.pkt) | Packet Tracer project file |
+| [Router0-config.txt](Router0-config.txt) | Router running configuration |
+| [Switch0-config.txt](Switch0-config.txt) | Switch0 running configuration |
+| [Switch1-config.txt](Switch1-config.txt) | Switch1 running configuration |
 
 > **Note:** This is a lab environment. Passwords in the config files are lab-only placeholders and are not used anywhere else.
 
